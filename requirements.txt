@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+numpy
+opencv-python
+scikit-learn
+tqdm
+torch
+torchvision
+insightface
+faiss-cpu

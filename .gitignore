@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.insightface/
+data/gallery_embeddings/
+*.onnx
+*.pkl
+*.zip
+*.tar
+*.log
+.DS_Store
